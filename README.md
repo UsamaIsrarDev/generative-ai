@@ -1,1 +1,1 @@
-Get started Generative AI from 26 May , 2025
+Get Started Generative AI Learning!
