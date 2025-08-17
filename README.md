@@ -158,7 +158,7 @@ https://arxiv.org/pdf/2303.10130.pdf
 https://www.gspublishing.com/content/research/en/reports/2023/03/27/d64e052b-0f6e-45d7-967b-d7be35fabd16.html
 ```
 
-### "ChatGPT API" or correctly: OpenAI 
+### "ChatGPT API" or correctly: OpenAI API
 
 OpenAI API is a collection of APIs
 
