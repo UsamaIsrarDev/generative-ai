@@ -339,7 +339,7 @@ LangChain Explained in 13 Minutes | QuickStart Tutorial for Beginners
 https://www.youtube.com/watch?v=aywZrzNaKjs
 ```
 
-LangChain Crash Course for 
+LangChain Crash Course for Beginners
 
 ```
 https://www.freecodecamp.org/news/learn-langchain-for-llm-development/
