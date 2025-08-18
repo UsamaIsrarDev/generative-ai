@@ -158,7 +158,7 @@ https://arxiv.org/pdf/2303.10130.pdf
 https://www.gspublishing.com/content/research/en/reports/2023/03/27/d64e052b-0f6e-45d7-967b-d7be35fabd16.html
 ```
 
-### "ChatGPT API" or correctly: OpenAI API
+### "ChatGPT API" or correctly: OpenAI 
 
 OpenAI API is a collection of APIs
 
@@ -339,7 +339,7 @@ LangChain Explained in 13 Minutes | QuickStart Tutorial for Beginners
 https://www.youtube.com/watch?v=aywZrzNaKjs
 ```
 
-LangChain Crash Course for Beginners
+LangChain Crash Course for 
 
 ```
 https://www.freecodecamp.org/news/learn-langchain-for-llm-development/
