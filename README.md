@@ -9,7 +9,7 @@ Generative AI for Everyone Slides
 
 https://docs.google.com/presentation/d/1u3Qwf8-VHf0tgmcvuC160p7JEvdAkkoAUWdvi4afk6A/edit?slide=id.g2998cc24585_1_46#slide=id.g2998cc24585_1_46
 
-<img src='../assets/app.png' alt='app'/>
+<img src='./assets/app.png' alt='app'/>
 
 Using generative AI in software applications
 
